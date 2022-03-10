@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TigerTix.Web", "TigerTix.Web\TigerTix.Web.csproj", "{63EDA1F7-C9FE-490C-A05F-CC79B3C910D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63EDA1F7-C9FE-490C-A05F-CC79B3C910D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63EDA1F7-C9FE-490C-A05F-CC79B3C910D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63EDA1F7-C9FE-490C-A05F-CC79B3C910D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63EDA1F7-C9FE-490C-A05F-CC79B3C910D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCAE49CE-B1AA-4C05-9845-7EDF6E0E0DF3}
+	EndGlobalSection
+EndGlobal
