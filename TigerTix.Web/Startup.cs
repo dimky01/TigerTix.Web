@@ -18,7 +18,7 @@ namespace TigerTix.Web
         {
             //services.AddMvc(options => options.EnableEndpointRouting = false);
             services.AddControllersWithViews();
-            services.AddMvc();
+   
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -36,7 +36,7 @@ namespace TigerTix.Web
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+      
 
                 endpoints.MapControllerRoute("Default",
                     "/{controller}/{action}/{id?}",

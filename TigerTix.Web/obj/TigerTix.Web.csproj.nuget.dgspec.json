@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/damilolaaiyetigbo/Projects/TigerTix.Web/TigerTix.Web/TigerTix.Web.csproj": {}
+    "/Users/jbrinkl/Projects/TigerTix.Web/TigerTix.Web/TigerTix.Web.csproj": {}
   },
   "projects": {
-    "/Users/damilolaaiyetigbo/Projects/TigerTix.Web/TigerTix.Web/TigerTix.Web.csproj": {
+    "/Users/jbrinkl/Projects/TigerTix.Web/TigerTix.Web/TigerTix.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/damilolaaiyetigbo/Projects/TigerTix.Web/TigerTix.Web/TigerTix.Web.csproj",
+        "projectUniqueName": "/Users/jbrinkl/Projects/TigerTix.Web/TigerTix.Web/TigerTix.Web.csproj",
         "projectName": "TigerTix.Web",
-        "projectPath": "/Users/damilolaaiyetigbo/Projects/TigerTix.Web/TigerTix.Web/TigerTix.Web.csproj",
-        "packagesPath": "/Users/damilolaaiyetigbo/.nuget/packages/",
-        "outputPath": "/Users/damilolaaiyetigbo/Projects/TigerTix.Web/TigerTix.Web/obj/",
+        "projectPath": "/Users/jbrinkl/Projects/TigerTix.Web/TigerTix.Web/TigerTix.Web.csproj",
+        "packagesPath": "/Users/jbrinkl/.nuget/packages/",
+        "outputPath": "/Users/jbrinkl/Projects/TigerTix.Web/TigerTix.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/damilolaaiyetigbo/.config/NuGet/NuGet.Config"
+          "/Users/jbrinkl/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
